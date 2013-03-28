@@ -9,6 +9,11 @@ public class HelloWorld {
 		// change 2 for branch1_fetch_head
 		// another change for branch3_fetch_head
 		// branch change 1.
+		// change 2 for branch1_fetch_head
+//<<<<<<< HEAD
+//=======
+		// another change for branch3_fetch_head
+//>>>>>>> refs/heads/branch3_fetch_head
 	}
 
 }
